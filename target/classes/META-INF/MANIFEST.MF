@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rajkumar
+Build-Jdk: 11.0.2
+Implementation-Title: SpringBootAuthenticationUsingJWT
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.grokonez.jwtauthentication
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootAuthenticationUsingJWT
+Created-By: Maven Integration for Eclipse
+
